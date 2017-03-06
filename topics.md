@@ -1,6 +1,6 @@
 # Repository topics
 
-Good topics to use on generator repos:
+Good topics to use on generator repos. Also useful as keywords in `package.json`:
 
 - `app`
 - `cli`
